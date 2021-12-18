@@ -1,9 +1,11 @@
 # Hi! 👋
 
-I'm zeriax, and I'm a student working on some projects.
-My favorite ❤ ones are:
-- JavaScript
-- Discord.JS
-- Web Development
+I'm zeriax, and I'm a student at Helsinki, Finland. I like imagining things and try my best to improve my skills. Currently, Currently working on a **Discord.JS** bot for my school 😅
 
-### I'm also learning stuff like C++, working hard to improve! Thanks! 🌱
+I also know some:
+- C/C++
+- C# and Unity Framework
+- React (JavaScript)
+- Python
+
+Feel free to ask me something! 👾
