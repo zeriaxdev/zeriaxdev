@@ -8,4 +8,5 @@ I also know some:
 - React (JavaScript)
 - Python
 
+I use Manjaro by the way.
 Feel free to ask me something! 👾
