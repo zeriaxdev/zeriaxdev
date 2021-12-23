@@ -18,8 +18,8 @@ Currently working on a **Discord.JS** bot for my school 😅
 
 ### Stats
 
-![thezeriax](https://github-readme-stats.vercel.app/api/top-langs?username=thezeriax&show_icons=true&theme=dark&locale=en&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thezeriax&show_icons=true&theme=dark&locale=en&layout=compact" alt="thezeriax" /></p>
 
-![thezeriax](https://github-readme-stats.vercel.app/api?username=thezeriax&show_icons=true&theme=dark&locale=en)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thezeriax&show_icons=true&theme=dark&locale=en" alt="thezeriax" /></p>
 
-![thezeriax](https://github-readme-streak-stats.herokuapp.com/?user=thezeriax&theme=dark)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thezeriax&theme=dark" alt="thezeriax" /></p>
