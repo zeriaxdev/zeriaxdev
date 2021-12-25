@@ -18,6 +18,7 @@ Currently working on a **Discord.JS** bot for my school 😅
 <a href="https://dev.to/thezeriax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thezeriax" height="30" width="40" /></a>
 <a href="https://medium.com/@zeriax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zeriax" height="30" width="40" /></a>
 <a href="https://matrix.to/#/@zeriax:matrix.org" target="blank"><img align="center" src="https://www.matrix.org/images/matrix-logo.svg" alt="@zeriax:matrix.org" height="32" width="75" /></a>
+<a href="https://www.buymeacoffee.com/zeriax" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 Or add me on Discord:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank">zeriax#4997</a>
