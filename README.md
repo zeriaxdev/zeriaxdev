@@ -38,5 +38,5 @@ Or add me on Discord:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thezeriax&show_icons=true&theme=dark&locale=en&layout=compact" alt="thezeriax" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thezeriax&show_icons=true&theme=dark&locale=en" alt="thezeriax" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thezeriax&theme=dark" alt="thezeriax" /></p>
-<p><img src="https://wakatime.com/share/@zeriax/3335ae55-2a2d-41a1-b972-bbe10b23cbd2.svg" align="center"></img></p>
+<p><img src="https://wakatime.com/share/@zeriax/8c62b1a0-9c1f-47da-9758-99be102159de.svg" align="center"></img></p>
 </div>
