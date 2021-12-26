@@ -40,4 +40,4 @@ Or add me on Discord:
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thezeriax&theme=dark" alt="thezeriax" /></p>
 <br>
-<p><embed src="https://wakatime.com/share/@zeriax/3335ae55-2a2d-41a1-b972-bbe10b23cbd2.svg" align="center"></embed></p>
+<p><img src="https://wakatime.com/share/@zeriax/3335ae55-2a2d-41a1-b972-bbe10b23cbd2.svg" align="center"></img></p>
