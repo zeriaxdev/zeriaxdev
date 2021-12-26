@@ -1,41 +1,73 @@
-# Hi! 👋
+<h1 align="center">Hi 👋, I'm zeriax</h1>
+<h3 align="center">I'm a passionate developer and student from Finland. I like imagining things and try my best to improve my skills.</h3>
 
-I'm zeriax, and I'm a student at Helsinki, Finland. I like imagining things and try my best to improve my skills.
+## 🙈 About me
 
-Currently working on a **Discord.JS** bot for my school 😅
-
-- 🔭 I’m currently working on [libreMayk](https://github.com/libremayk/)
+- 🔭 I’m currently working on [libreMayk](https://github.com/libremayk/), or more specifically on [maykBot](https://github.com/libremayk/), a **Discord** bot for my school 😅
 
 - 🌱 I’m currently learning **JavaScript, Python (OpenCV too) and a bit of C and C++**
 
 - 👨‍💻 All of my projects are available at [github.com/theZeriax/](https://github.com/theZeriax/) and [github.com/libreMayk/](https://github.com/libreMayk/)
 
 - ⚡ Fun fact: I love listening to music 🎵, and I enjoy playing videogames 🎮
+  
+- 💻 I use **VSCode** for editing, **Manjaro Linux** for my development environment, and **Git** for version control
 
-You can **buy me a coffee** if you want 💵
+### You can **[buymeacoffee.com](https://buymeacoffee.com/zeriax)** now 💵
 
-<a href="https://www.buymeacoffee.com/zeriax" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/zeriax" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-### Connect with me:
+## 🔧 Languages and tools
 
 <p align="left">
-<a href="https://dev.to/thezeriax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thezeriax" height="30" width="40" /></a>
-<a href="https://medium.com/@zeriax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zeriax" height="30" width="40" /></a>
-<a href="https://matrix.to/#/@zeriax:matrix.org" target="blank"><img align="center" src="https://www.matrix.org/images/matrix-logo.svg" alt="@zeriax:matrix.org" height="32" width="75" style="color: #808080;"/></a>
-
-Or add me on Discord:
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank">zeriax#4997</a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/400/000000/c-programming.png" alt="C-language" width="50" height="50"/></a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/c-plus-plus-logo.png" alt="cplusplus" width="50" height="50"/> </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/linux--v1.png" alt="linux" width="50" height="50"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/git.png" alt="git" width="50" height="50"/></a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/100/000000/html-5.png" alt="html5" width="50" height="50"/> </a>
+    <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/100/000000/css3.png" alt="html5" width="50" height="50"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/javascript.png" alt="javascript" width="50" height="50"/> </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/nodejs.png" alt="Node.js" width="50" height="50"/> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/react-native.png" alt="React" width="50" height="50"/></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/firebase.png" alt="Firebase" width="50" height="50"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/python.png" alt="python" width="50" height="50"/> </a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/opencv.png" alt="opencv" width="50" height="50"/> </a>
+    <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/gimp.png" alt="GIMP" width="50" height="50"/> </a>
 </p>
 
-### Languages and tools:
+## 📊 GitHub Stats
 
-<link rel="stylesheet" type="text/css" media="all" href="https://raw.githubusercontent.com/theZeriax/theZeriax/main/assets/main.css" />
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/e7ed9fe4bafe46e275c807d63591f85f9ab246ba/e2d28/assets/images/tux.png" alt="linux" width="28" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br />
+<p align="center">
+    <a href="https://github.com/github.com/theZeriax">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="theZeriax's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theZeriax&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<p align="center">
+  <br/>
+    <a href="https://github.com/theZeriax/"><img alt="theZeriax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theZeriax&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/theZeriax/"><img alt="theZeriax's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theZeriax&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+</p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-### Stats
+<br/>
 
-<div style="text-align: center;">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thezeriax&show_icons=true&theme=dark&locale=en&layout=compact" alt="thezeriax" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thezeriax&show_icons=true&theme=dark&locale=en" alt="thezeriax" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thezeriax&theme=dark" alt="thezeriax" /></p>
-</div>
+<a href="https://github.com/theZeriax/"><img alt="theZeriax's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=theZeriax&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## 📨 Connect with me
+
+<p align="left">
+<a href="https://matrix.to/#/@zeriax:matrix.org" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/400/ffffff/matrix-logo.png" alt="@zeriax:matrix.org" height="60" width="60" style="color: #808080;"/></a>
+<a href="https://medium.com/@zeriax" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/400/ffffff/medium-logo.png" alt="@zeriax" height="60" width="60" /></a>
+<a href="https://dev.to/thezeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/ffffff/dev.png" alt="thezeriax's dev.to" height="60" width="60" /></a>
+<a href="https://twitter.com/theZeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/ffffff/twitter.png" alt="theZeriax's Twitter" height="60" width="60" /></a>
+<a href="https://discord.gg/YM6G79p2U4" target="_blank"><img align="center" src="https://img.icons8.com/material/400/ffffff/discord-logo--v1.png" alt="theZeriax's Discord Server" height="60" width="60" /></a>
+
+Or add me on Discord:
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">zeriax#4997</a>
+
+</p>
