@@ -61,11 +61,11 @@
 ## 📨 Connect with me
 
 <p align="left">
-<a href="https://matrix.to/#/@zeriax:matrix.org" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/400/ffffff/matrix-logo.png" alt="@zeriax:matrix.org" height="60" width="60" style="color: #808080;"/></a>
-<a href="https://medium.com/@zeriax" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/400/ffffff/medium-logo.png" alt="@zeriax" height="60" width="60" /></a>
-<a href="https://dev.to/thezeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/ffffff/dev.png" alt="thezeriax's dev.to" height="60" width="60" /></a>
-<a href="https://twitter.com/theZeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/ffffff/twitter.png" alt="theZeriax's Twitter" height="60" width="60" /></a>
-<a href="https://discord.gg/YM6G79p2U4" target="_blank"><img align="center" src="https://img.icons8.com/material/400/ffffff/discord-logo--v1.png" alt="theZeriax's Discord Server" height="60" width="60" /></a>
+<a href="https://matrix.to/#/@zeriax:matrix.org" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/400/dbdbdb/matrix-logo.png" alt="@zeriax:matrix.org" height="60" width="60" style="color: #808080;"/></a>
+<a href="https://medium.com/@zeriax" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/400/dbdbdb/medium-logo.png" alt="@zeriax" height="60" width="60" /></a>
+<a href="https://dev.to/thezeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/dbdbdb/dev.png" alt="thezeriax's dev.to" height="60" width="60" /></a>
+<a href="https://twitter.com/theZeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/6fe2fc/twitter.png" alt="theZeriax's Twitter" height="60" width="60" /></a>
+<a href="https://discord.gg/YM6G79p2U4" target="_blank"><img align="center" src="https://img.icons8.com/material/400/6f90fc/discord-logo--v1.png" alt="theZeriax's Discord Server" height="60" width="60" /></a>
 
 Or add me on Discord:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">zeriax#4997</a>
