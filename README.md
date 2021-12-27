@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: I love listening to music 🎵, and I enjoy playing videogames 🎮
   
-- 💻 I use **VSCode** for editing, **Manjaro Linux** for my development environment, and **Git** for version control
+- <p>💻 I use <b style="color: #0098FF;">VSCode</b> for editing, <b style="color: #34be5b;">Manjaro Linux</b> for my development environment, and <b style="color: #f1502f;">Git</b> for version control</p>
 
 ### You can **[buymeacoffee.com](https://buymeacoffee.com/zeriax)** now 💵
 
@@ -65,7 +65,7 @@
 <a href="https://medium.com/@zeriax" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/400/dbdbdb/medium-logo.png" alt="@zeriax" height="60" width="60" /></a>
 <a href="https://dev.to/thezeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/dbdbdb/dev.png" alt="thezeriax's dev.to" height="60" width="60" /></a>
 <a href="https://twitter.com/theZeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/6fe2fc/twitter.png" alt="theZeriax's Twitter" height="60" width="60" /></a>
-<a href="https://discord.gg/YM6G79p2U4" target="_blank"><img align="center" src="https://img.icons8.com/material/400/6f90fc/discord-logo--v1.png" alt="theZeriax's Discord Server" height="60" width="60" /></a>
+<a href="https://discord.gg/YM6G79p2U4" target="_blank"><img align="center" src="https://img.icons8.com/material/400/6f90fc/discord-logo--v1.png" alt="theZeriax's Discord Server" height="60" width="60" style="outline-style: solid;" /></a>
 
 Or add me on Discord:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">zeriax#4997</a>
