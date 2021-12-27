@@ -33,6 +33,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/python.png" alt="python" width="50" height="50"/> </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/opencv.png" alt="opencv" width="50" height="50"/> </a>
     <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/gimp.png" alt="GIMP" width="50" height="50"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/visual-studio-code-2019.png" alt="GIMP" width="50" height="50"/> </a>
 </p>
 
 ## 📊 GitHub Stats
