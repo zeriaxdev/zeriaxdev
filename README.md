@@ -3,7 +3,7 @@
 
 ## 🙈 About me
 
-- 🔭 I’m currently working on [libreMayk](https://github.com/libremayk/), or more specifically on [maykBot](https://github.com/libremayk/), a **Discord** bot for my school 😅
+- 🔭 I’m currently working on [libreMayk](https://github.com/libremayk/), or more specifically on [maykBot](https://github.com/libremayk/), a **Discord** bot for my school; and my [personal website](https://zeriax.com)! You should check it out!
 
 - 🌱 I’m currently learning **JavaScript, Python (OpenCV too) and a bit of C and C++**
 
@@ -32,6 +32,7 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/firebase.png" alt="Firebase" width="50" height="50"/></a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/python.png" alt="python" width="50" height="50"/> </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/opencv.png" alt="opencv" width="50" height="50"/> </a>
+    <a href="https://www.go.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/golang.png" alt="golang" width="50" height="50"/> </a>
     <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/gimp.png" alt="GIMP" width="50" height="50"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/visual-studio-code-2019.png" alt="GIMP" width="50" height="50"/> </a>
 </p>
