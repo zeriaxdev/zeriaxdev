@@ -45,10 +45,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="theZeriax's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theZeriax&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<p align="center">
+<p>
   <br/>
-    <a href="https://github.com/theZeriax?tab=repositories"><img alt="theZeriax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theZeriax&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
+  <a href="https://github.com/theZeriax?tab=repositories"><img alt="theZeriax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theZeriax&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/theZeriax?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theZeriax&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" alt="Top Langs"></a>
   <br/>
 </p>
