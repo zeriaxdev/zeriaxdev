@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Python (OpenCV too) and a bit of C and C++**
 
-- 👨‍💻 All of my projects are available at [github.com/theZeriax/](https://github.com/theZeriax/) and [github.com/libreMayk/](https://github.com/libreMayk/)
+- 👨‍💻 All of my projects are available at [github.com/zeriaxdev/](https://github.com/zeriaxdev/) and [github.com/libreMayk/](https://github.com/libreMayk/)
 
 - ⚡ Fun fact: I love listening to music 🎵, and I enjoy playing videogames 🎮
   
@@ -41,21 +41,21 @@
 
 <br />
 <p align="center">
-    <a href="https://github.com/github.com/theZeriax">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="theZeriax's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theZeriax&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    <a href="https://github.com/github.com/zeriaxdev">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="zeriaxdev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zeriaxdev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 <p>
   <br/>
-  <a href="https://github.com/theZeriax?tab=repositories"><img alt="theZeriax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theZeriax&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/theZeriax?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theZeriax&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" alt="Top Langs"></a>
+  <a href="https://github.com/zeriaxdev?tab=repositories"><img alt="zeriaxdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zeriaxdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/zeriaxdev?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeriaxdev&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" alt="Top Langs"></a>
   <br/>
 </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 
-<a href="https://github.com/theZeriax/"><img alt="theZeriax's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=theZeriax&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/zeriaxdev/"><img alt="zeriaxdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zeriaxdev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -65,9 +65,9 @@
 <p align="left">
 <a href="https://matrix.to/#/@zeriax:matrix.org" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/400/dbdbdb/matrix-logo.png" alt="@zeriax:matrix.org" height="60" width="60" style="color: #808080;"/></a>
 <a href="https://medium.com/@zeriax" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/400/dbdbdb/medium-logo.png" alt="@zeriax" height="60" width="60" /></a>
-<a href="https://dev.to/thezeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/dbdbdb/dev.png" alt="thezeriax's dev.to" height="60" width="60" /></a>
-<a href="https://twitter.com/theZeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/6fe2fc/twitter.png" alt="theZeriax's Twitter" height="60" width="60" /></a>
-<a href="https://discord.gg/YM6G79p2U4" target="_blank"><img align="center" src="https://img.icons8.com/material/400/6f90fc/discord-logo--v1.png" alt="theZeriax's Discord Server" height="60" width="60" /></a>
+<a href="https://dev.to/zeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/dbdbdb/dev.png" alt="zeriax's dev.to" height="60" width="60" /></a>
+<a href="https://twitter.com/zeriaxdev" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/6fe2fc/twitter.png" alt="zeriax's Twitter" height="60" width="60" /></a>
+<a href="https://discord.gg/YM6G79p2U4" target="_blank"><img align="center" src="https://img.icons8.com/color/400/6f90fc/discord--v2.png" alt="zeriaxdev's Discord Server" height="60" width="60" /></a>
 
 Or add me on Discord:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">zeriax#4997</a>
