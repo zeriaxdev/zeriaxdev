@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: I love listening to music 🎵, and I enjoy playing videogames 🎮
   
-- <p>💻 I use <b style="color: #0098FF;">VSCode</b> for editing, <b style="color: #34be5b;">Manjaro Linux</b> for my development environment, and <b style="color: #f1502f;">Git</b> for version control</p>
+- <p>💻 I use <b style="color: #0098FF;">VSCode</b> for editing, <b style="color: #34be5b;">Arch Linux</b> (btw) for my development environment, and <b style="color: #f1502f;">Git</b> for version control</p>
 
 ### You can **[buymeacoffee.com](https://buymeacoffee.com/zeriax)** now 💵
 
