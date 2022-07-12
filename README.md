@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [libreMayk](https://github.com/libremayk/), or more specifically on [maykBot](https://github.com/libremayk/), a **Discord** bot for my school; and my [personal website](https://zeriax.com)! You should check it out!
 
-- 🌱 I’m currently learning **JavaScript, Python (OpenCV too) and a bit of C and C++**
+- 🌱 I’m currently learning **TypeScript, and trying to get into Rust**
 
 - 👨‍💻 All of my projects are available at [github.com/zeriaxdev/](https://github.com/zeriaxdev/) and [github.com/libreMayk/](https://github.com/libreMayk/)
 
@@ -67,7 +67,6 @@
 <a href="https://medium.com/@zeriax" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/400/dbdbdb/medium-logo.png" alt="@zeriax" height="60" width="60" /></a>
 <a href="https://dev.to/zeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/dbdbdb/dev.png" alt="zeriax's dev.to" height="60" width="60" /></a>
 <a href="https://twitter.com/zeriaxdev" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/6fe2fc/twitter.png" alt="zeriax's Twitter" height="60" width="60" /></a>
-<a href="https://discord.gg/YM6G79p2U4" target="_blank"><img align="center" src="https://img.icons8.com/color/400/6f90fc/discord--v2.png" alt="zeriaxdev's Discord Server" height="60" width="60" /></a>
 
 Or add me on Discord:
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">zeriax#4997</a>
