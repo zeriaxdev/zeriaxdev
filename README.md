@@ -20,8 +20,6 @@
 ## 🔧 Languages and tools
 
 <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/400/000000/c-programming.png" alt="C-language" width="50" height="50"/></a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/c-plus-plus-logo.png" alt="cplusplus" width="50" height="50"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/linux--v1.png" alt="linux" width="50" height="50"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/git.png" alt="git" width="50" height="50"/></a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/100/000000/html-5.png" alt="html5" width="50" height="50"/> </a>
