@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [libreMayk](https://github.com/libreMayk/), or more specifically on [maykbot-ts](https://github.com/libreMayk/maykbot-ts), a **Discord** bot for my school; and my [personal website](https://zeriax.com)! You should check it out!
 
-- 🌱 I’m currently learning **TypeScript, and trying to get into Rust**
+- 🌱 I’m currently learning **TypeScript and Rust**
 
-- 👨‍💻 All of my projects are available at [github.com/zeriaxdev/](https://github.com/zeriaxdev/) and [github.com/libreMayk/](https://github.com/libreMayk/)
+- 👨‍💻 All of my projects are available at [github.com/zeriaxdev](https://github.com/zeriaxdev) and [github.com/libreMayk/](https://github.com/libreMayk/)
 
 - ⚡ Fun fact: I love listening to music 🎵, and I enjoy playing videogames 🎮
   
@@ -31,6 +31,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/python.png" alt="python" width="50" height="50"/> </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/opencv.png" alt="opencv" width="50" height="50"/> </a>
     <a href="https://www.go.dev/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/golang.png" alt="golang" width="50" height="50"/> </a>
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://rustacean.net/assets/rustacean-flat-happy.svg" alt="rust" width="70" height="50"/> </a>
     <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/gimp.png" alt="GIMP" width="50" height="50"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/visual-studio-code-2019.png" alt="GIMP" width="50" height="50"/> </a>
 </p>
