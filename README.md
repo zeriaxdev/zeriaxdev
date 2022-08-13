@@ -67,7 +67,6 @@
 <a href="https://dev.to/zeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/dbdbdb/dev.png" alt="zeriax's dev.to" height="60" width="60" /></a>
 <a href="https://twitter.com/zeriaxdev" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/6fe2fc/twitter.png" alt="zeriax's Twitter" height="60" width="60" /></a>
 
-Or add me on Discord:
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">zeriax#4997</a>
+Or add me on Discord[:](https://www.youtube.com/watch?v=dQw4w9WgXcQ) zeriax#4997
 
 </p>
