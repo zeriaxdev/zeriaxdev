@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript and Rust**
 
-- 👨‍💻 All of my projects are available at [github.com/zeriaxdev](https://github.com/zeriaxdev) and [github.com/libreMayk/](https://github.com/libreMayk/)
+- 👨‍💻 All of my projects are available at [github.com/zeriaxdev](https://github.com/zeriaxdev) and [github.com/libreMayk](https://github.com/libreMayk)
 
 - ⚡ Fun fact: I love listening to music 🎵, and I enjoy playing videogames 🎮
   
