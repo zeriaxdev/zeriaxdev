@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [libreMayk](https://github.com/libreMayk/), or more specifically on [maykbot-ts](https://github.com/libreMayk/maykbot-ts), a **Discord** bot for my school; and my [personal website](https://zeriax.com)! You should check it out!
 
-- 🌱 I’m currently learning **TypeScript and Rust**
+- 🌱 I’m currently learning **TypeScript** and **Rust**
 
 - 👨‍💻 All of my projects are available at [github.com/zeriaxdev](https://github.com/zeriaxdev) and [github.com/libreMayk](https://github.com/libreMayk)
 
