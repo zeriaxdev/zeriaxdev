@@ -3,7 +3,7 @@
 
 ## 🙈 About me
 
-- 🔭 I’m currently working on [libreMayk](https://github.com/libreMayk/), or more specifically on [maykbot-ts](https://github.com/libreMayk/maykbot-ts), a **Discord** bot for my school; and my [personal website](https://zeriax.com)! You should check it out!
+- 🔭 I’m currently working on [libreMayk](https://github.com/libreMayk/), or more specifically on [maykbot-ts](https://github.com/libreMayk/maykbot-ts), a **Discord** bot for my school; and my [personal website](https://zeriax.com)! You should check them out!
 
 - 🌱 I’m currently learning **TypeScript** and **Rust**
 
