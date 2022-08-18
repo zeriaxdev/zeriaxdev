@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zeriax</h1>
-<h3 align="center">I'm a passionate developer and student from Finland. I like imagining things and try my best to improve my skills.</h3>
+<h3 align="center">I'm a passionate developer and a student from Finland. I like imagining things and try my best to improve my skills.</h3>
 
 ## 🙈 About me
 
