@@ -1,5 +1,25 @@
-<h1 align="center">Hi 👋, I'm zeriax</h1>
-<h3 align="center">I'm a passionate developer and a student from Finland. I like imagining things and try my best to improve my skills.</h3>
+<h3 align="center">
+  Welcome to zeriax's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/zeriaxdev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Gruvbox,%20Arch%20Linux,%20BSPWM;TypeScript,%20Node.js,%20React;Currently%20learning%20Rust%20:D&font=Fira%20Code&center=true&width=440&height=45&color=b8bb26&vCenter=true&size=22&pause=1000"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCH8OtGy_zBJ58ZHQaUk_k8w" target="_blank"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/bQFWtYw.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/zeriaxdev" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/50/b8bb26/twitter.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://zeriax.com" target="_blank" alt="zeriax's website"><img width="32px" title="zeriax's website" src="https://img.icons8.com/windows/400/b8bb26/globe.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/zeriax" target="_blank"><img width="32px" alt="Dev.to" title="zeriaxdev Dev.to" src="https://i.imgur.com/X2jtusU.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/zeriax" target="_blank"><img width="32px" alt="Medium" title="Medium" src="https://img.icons8.com/ios-filled/400/b8bb26/medium-logo.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://matrix.to/#/@zeriax:matrix.org" target="_blank"><img width="32px" alt="Matrix" title="Add me on Matrix" src="https://img.icons8.com/ios-filled/400/b8bb26/matrix-logo.png"/></a>
+</p>
 
 ## 🙈 About me
 
@@ -11,7 +31,7 @@
 
 - ⚡ Fun fact: I love listening to music 🎵, and I enjoy playing videogames 🎮
   
-- <p>💻 I use <b style="color: #0098FF;">VSCode</b> for editing, <b style="color: #34be5b;">Arch Linux</b> (btw) as my daily drive Linux distribution, and <b style="color: #f1502f;">Git</b> for version control</p>
+- 💻 I use **VSCode** for editing, **Arch Linux (btw)** as my daily drive Linux distribution, and **Git** for version control
 
 ### You can **[buymeacoffee.com](https://buymeacoffee.com/zeriax)** now 💵
 
@@ -36,37 +56,26 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/visual-studio-code-2019.png" alt="GIMP" width="50" height="50"/> </a>
 </p>
 
-## 📊 GitHub Stats
+## 🔥 Streak stats
 
-<br />
 <p align="center">
-    <a href="https://github.com/github.com/zeriaxdev">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="zeriaxdev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zeriaxdev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
-    </a>
+  <a href="https://git.io/streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="zeriaxdev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zeriaxdev&theme=onedark_duo&hide_border=true&stroke=333333"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
-<p>
+
+## 📊 Github stats
+
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/zeriaxdev?tab=repositories"><img alt="zeriaxdev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zeriaxdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/zeriaxdev?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeriaxdev&langs_count=8&theme=react&hide_border=true&bg_color=0D1117" alt="Top Langs"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="zeriaxdev's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=zeriaxdev&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true&bg_color=282828" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="zeriaxdev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeriaxdev&langs_count=8&layout=compact&theme=onedark&hide_border=true&bg_color=282828" height="192px"/></a>
   <br/>
-</p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
 
-<br/>
+[![zeriaxdev](https://activity-graph.herokuapp.com/graph?username=zeriaxdev&bg_color=282828&color=7c6f64&line=eee792&point=eee792&area=true&area_color=928374&hide_border=true&custom_title=%20contribution%20graph)](https://github.com/zeriaxdev)
 
-<a href="https://github.com/zeriaxdev/"><img alt="zeriaxdev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zeriaxdev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## 📨 Connect with me
-
-<p align="left">
-<a href="https://matrix.to/#/@zeriax:matrix.org" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/400/dbdbdb/matrix-logo.png" alt="@zeriax:matrix.org" height="60" width="60" style="color: #808080;"/></a>
-<a href="https://medium.com/@zeriax" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/400/dbdbdb/medium-logo.png" alt="@zeriax" height="60" width="60" /></a>
-<a href="https://dev.to/zeriax" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/dbdbdb/dev.png" alt="zeriax's dev.to" height="60" width="60" /></a>
-<a href="https://twitter.com/zeriaxdev" target="_blank"><img align="center" src="https://img.icons8.com/windows/400/6fe2fc/twitter.png" alt="zeriax's Twitter" height="60" width="60" /></a>
-
-Or add me on Discord[:](https://www.youtube.com/watch?v=dQw4w9WgXcQ) zeriax#4997
-
-</p>
+##### Add me on Discord[:](https://www.youtube.com/watch?v=dQw4w9WgXcQ) zeriax#4997
