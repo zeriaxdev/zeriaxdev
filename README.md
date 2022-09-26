@@ -44,6 +44,7 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/git.png" alt="git" width="50" height="50"/></a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/100/000000/html-5.png" alt="html5" width="50" height="50"/> </a>
     <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/100/000000/css3.png" alt="html5" width="50" height="50"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/typescript.png" alt="typescript" width="50" height="50"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/javascript.png" alt="javascript" width="50" height="50"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/nodejs.png" alt="Node.js" width="50" height="50"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/400/000000/react-native.png" alt="React" width="50" height="50"/></a>
